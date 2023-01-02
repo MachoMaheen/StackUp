@@ -1,0 +1,4 @@
+------------------
+ Signing a Message
+------------------
+Other than signing transactions to be submitted to the blockchain, we can also sign messages to verify users. login.xyz, also known as SIWE (Sign-in With Ethereum), uses message signing extensively as the bridge between Web2 and Web3. Websites using SIWE usually store some data such as user profiles such that when a user wants to edit it, it will require the user to sign a message first to verify the correct user.
